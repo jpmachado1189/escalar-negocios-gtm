@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coach GTM · Escalar Negócios"
+  short_description: "Constrói e acompanha o teu GTM em 90 dias"
+  default_prompt: "Usa $escalar-gtm para começar ou retomar o meu plano GTM de 90 dias."
