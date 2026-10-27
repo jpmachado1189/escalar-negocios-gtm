@@ -1,0 +1,93 @@
+[
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+    "path": "skills/customer-research/SKILL.md",
+    "sha256": "905e65e67268448d88b3b96cf045c6b3615cdd87c1060e129b148a31aa627669",
+    "url": "https://github.com/coreyhaines31/marketingskills/blob/17772c7a80b7b8c7a47af30f648374cd8bd8adc5/skills/customer-research/SKILL.md"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+    "path": "skills/offers/SKILL.md",
+    "sha256": "40f4fa702b982dbda83c2592e2546afe6d919e95384eedc0ac8b211c728e05b2",
+    "url": "https://github.com/coreyhaines31/marketingskills/blob/17772c7a80b7b8c7a47af30f648374cd8bd8adc5/skills/offers/SKILL.md"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+    "path": "skills/pricing/SKILL.md",
+    "sha256": "b0318f64140e60a28d0cf71b1a6bf2aa214b96ef2bc3253c60d16ae480367d25",
+    "url": "https://github.com/coreyhaines31/marketingskills/blob/17772c7a80b7b8c7a47af30f648374cd8bd8adc5/skills/pricing/SKILL.md"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "17772c7a80b7b8c7a47af30f648374cd8bd8adc5",
+    "path": "LICENSE",
+    "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+    "url": "https://github.com/coreyhaines31/marketingskills/blob/17772c7a80b7b8c7a47af30f648374cd8bd8adc5/LICENSE"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-market-research/skills/market-sizing/SKILL.md",
+    "sha256": "96d1250ba0ab7e5b64c9be8278f63f9661b510237e423b42ef70ab914184faf8",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-market-research/skills/market-sizing/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-go-to-market/skills/ideal-customer-profile/SKILL.md",
+    "sha256": "8d434df786db2290efb575f1d219c7e19650e7a7e3df9a5f4b82b0bd0d2ce298",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-go-to-market/skills/ideal-customer-profile/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-marketing-growth/skills/positioning-ideas/SKILL.md",
+    "sha256": "8864f284e66c8bb106c46dc5e51656a47ae4792e39091eb3a49f63cde00c3850",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-marketing-growth/skills/positioning-ideas/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-go-to-market/skills/gtm-motions/SKILL.md",
+    "sha256": "b26db17f9eee4f04aa3d53bf3c393da0574a3fa54d59eb7427e0cf5edf2377c3",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-go-to-market/skills/gtm-motions/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-market-research/skills/customer-journey-map/SKILL.md",
+    "sha256": "656c0e16318b3b24870065a8eabb8a116b72e47c167472836ce76ea97ec5c75e",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-market-research/skills/customer-journey-map/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-product-discovery/skills/prioritize-assumptions/SKILL.md",
+    "sha256": "18160a0138c788790c9dd22995ffdcfac485c1f0599c170d8668678e59766073",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-product-discovery/skills/prioritize-assumptions/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-product-discovery/skills/brainstorm-experiments-existing/SKILL.md",
+    "sha256": "d72da1f4f08d5514662d7bad37dfc3ed4ef11fcc5b5ddec6ca5a8ac0e47f45c5",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-product-discovery/skills/brainstorm-experiments-existing/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "pm-product-discovery/skills/metrics-dashboard/SKILL.md",
+    "sha256": "fa74abf49be9f034ae43110528028402e5e63809540302b95567018d478ef4e9",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/pm-product-discovery/skills/metrics-dashboard/SKILL.md"
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
+    "path": "LICENSE",
+    "sha256": "a2c922f9b81b4f40347ddfa79c38eda0f1278b5a6d108bd4099b4da254c774ee",
+    "url": "https://github.com/phuryn/pm-skills/blob/07b34f64ee828df08953f505b7f747aef85ae7c6/LICENSE"
+  }
+]
