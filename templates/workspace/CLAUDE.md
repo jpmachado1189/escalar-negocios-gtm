@@ -1,0 +1,1 @@
+Lê `AGENTS.md` nesta pasta. Depois lê explicitamente `.agents/skills/escalar-gtm/SKILL.md` e `REGISTO.md`, mesmo que a skill ainda não apareça no seletor. Retoma o passo atual e segue a metodologia do Escalar Negócios.

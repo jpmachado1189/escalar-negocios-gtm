@@ -1,0 +1,10 @@
+# Registos privados do empresário; o pacote não inicializa Git.
+REGISTO.md
+dados/
+entregaveis/
+revisoes/
+*.ics
+.env
+.env.*
+__pycache__/
+*.pyc
